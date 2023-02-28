@@ -1,3 +1,8 @@
 this is the second file in git
 this will be used for push and pull
 let's try these
+
+this will be used for merge
+here we will use the merge command
+git merge
+
