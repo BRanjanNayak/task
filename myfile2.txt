@@ -6,3 +6,5 @@ this will be used for merge
 here we will use the merge command
 git merge
 
+for revert process
+
