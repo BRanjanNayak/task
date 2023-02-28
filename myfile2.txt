@@ -6,8 +6,3 @@ this will be used for merge
 here we will use the merge command
 git merge
 
-this will be used for revert
-to pull back your file after made a commit
-here will use 
-git revert <commit id>
-
