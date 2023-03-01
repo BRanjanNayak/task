@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 my second data file
+=======
+welcom to git
+this file is for git stash
+>>>>>>> Stashed changes
 
